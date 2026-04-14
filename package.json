@@ -1,0 +1,7 @@
+{
+  "name": "agents-and-skills",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["./plugins/my-skills/skills"]
+  }
+}
